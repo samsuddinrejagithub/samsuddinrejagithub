@@ -21,7 +21,7 @@
 ##
 
 
-<a href="https://www.linkedin.com/in/mohammad-danish-alauddin-196746166"><img align="left" src="https://raw.githubusercontent.com/danish078600/danish078600/main/images/linkedin.svg" alt="Danish | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/samsuddin-reja-584111219"><img align="left" src="https://raw.githubusercontent.com/danish078600/danish078600/main/images/linkedin.svg" alt="Danish | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/_faateh/"><img align="left" src="https://raw.githubusercontent.com/danish078600/danish078600/main/images/instagram.svg" alt="Danish | Instagram" width="21px"/></a>
 <a href="https://twitter.com/danish_alauddin"><img align="left" src="https://raw.githubusercontent.com/danish078600/danish078600/main/images/twitter.svg" alt="Danish | twitter" width="21px"/></a>
 
