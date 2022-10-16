@@ -5,7 +5,7 @@
 - I'm currrently learning almost everything🤣
 - Current Goal- Explore SE more and Get a Job
 - 2023 Goal - Contribute To Open Source Projects
-- I love like Movies
+- I like watching Movies
 
 ---
 🚀 Skills </br>
