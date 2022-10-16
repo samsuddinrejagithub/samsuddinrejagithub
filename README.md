@@ -33,5 +33,4 @@
 ![Samsuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsuddinrejagithub&show_icons=true&theme=merko)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsuddinrejagithub
-&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsuddinrejagithub&layout=compact)
